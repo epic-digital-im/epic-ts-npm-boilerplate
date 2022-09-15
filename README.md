@@ -33,7 +33,7 @@
 
 > Clone this repository: 
 ```bash 
-git clone https://github.com/epicdigitalmedia/epic-ts-npm-boilerplate`
+git clone https://github.com/epicdigitalmedia/epic-ts-npm-boilerplate
 ```
 ### Open the directory and run the script line:
 
