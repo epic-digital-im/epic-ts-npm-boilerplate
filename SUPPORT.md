@@ -1,6 +1,6 @@
 # Where should I ask my question?
 
-We appreciate that getting started with the Parse Platform can be challenging at times, so we are here to help! As we are a small team of volunteer contributors we ask that you respect our time & effort by reviewing the [docs](https://docs.parseplatform.org) thoroughly as well as checking previous questions on Stack Overflow & GitHub Issues before posting a question. If all else fails, see the information below on the best place for your questions.
+We appreciate that getting started with the Epic Digital can be challenging at times, so we are here to help! As we are a small team of volunteer contributors we ask that you respect our time & effort by reviewing the [docs](https://docs.parseplatform.org) thoroughly as well as checking previous questions on Stack Overflow & GitHub Issues before posting a question. If all else fails, see the information below on the best place for your questions.
 
 ### Code level questions:
 
